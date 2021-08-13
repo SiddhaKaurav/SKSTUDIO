@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+#Studio-logo{
+    border: solid black 10px;
+}
+#Upcoming-Project{
+    border: darkorange dotted 2px;
+}
